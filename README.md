@@ -20,13 +20,12 @@ Here are some ideas to get you started:
 #### Front-End
 ➔ HTML, CSS, Javascript,ReactJs, Bootstrap Material-UI, Ant Design,NextJs
 ➔ Redux, React-Redux, React Context API
-#### Back-End For Web
-➔ Javascript, NodeJs, ExpressJs, NextJs
 
-###### Database management system:
+#### Back-End For Web
+➔ Javascript, NodeJs, ExpressJs, NextJs 
 ➔ MongoDB (NoSQL), MySql (SQL)
 
-###### Programming languages:
+### Programming languages:
 ➔ Javascript, Python
 
 ###### Useful tools:
