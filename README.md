@@ -19,12 +19,9 @@ Here are some ideas to get you started:
 ➔ HTML, CSS, Javascript,ReactJs, Bootstrap Material-UI, Ant Design,NextJs
 ➔ Redux, React-Redux, React Context API
 
-#### Back-End For Web
+#### Back-End
 ➔ Javascript, NodeJs, ExpressJs, NextJs 
 ➔ MongoDB (NoSQL), MySql (SQL)
 
 #### Programming languages:
 ➔ Javascript, Python
-
-#### Useful tools:
-➔ Git & Github, Figma
