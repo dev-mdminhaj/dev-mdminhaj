@@ -1,4 +1,5 @@
-### console.log(" Muhammad Minhaj ") 👋
+## Muhammad Minhaj
+### console.log(" Welcome To My Profile ") 👋
 <!--
 **dev-mdminhaj/dev-mdminhaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
