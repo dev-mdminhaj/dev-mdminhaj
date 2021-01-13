@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 ➔ Javascript, NodeJs, ExpressJs, NextJs 
 ➔ MongoDB (NoSQL), MySql (SQL)
 
-### Programming languages:
+#### Programming languages:
 ➔ Javascript, Python
 
-###### Useful tools:
+#### Useful tools:
 ➔ Git & Github, Figma
 
 Thanks!
