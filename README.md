@@ -30,6 +30,3 @@ Here are some ideas to get you started:
 
 #### Useful tools:
 ➔ Git & Github, Figma
-
-Thanks!
-
