@@ -37,7 +37,7 @@ I'm Muhammad Minhaj, a full-stack web and mobile application developer. I develo
 [<img align="left" alt="CSS3" width="26px" src="/icons/bootstrap.svg" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="/icons/javascript.svg" />][website]
 [<img align="left" alt="Deno" width="26px" src="/icons/typescript.png" />][website]
-[<img align="left" alt="Node.js" width="26px" src="/icons/nodejs.png" />][website]
+[<img align="left" alt="Node.js" width="26px" src="/icons/nodejs.svg" />][website]
 [<img align="left" alt="Sass" width="26px" src="/icons/expressjs.svg" />][website]
 [<img align="left" alt="React" width="26px" src="/icons/react-native.svg" />][website]
 [<img align="left" alt="React" width="26px" src="/icons/next-js.svg" />][website]
