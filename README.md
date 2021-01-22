@@ -48,9 +48,8 @@ I'm Muhammad Minhaj, a full-stack web and mobile application developer. I develo
 
 <br />
 <br />
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="/icons/vscode.png"/>][website]
 [<img align="left" alt="Visual Studio Code" width="26px" src="/icons/androidstudio.png"/>][website]
+[<img align="left" alt="Visual Studio Code" width="26px" src="/icons/vscode.png"/>][website]
 [<img align="left" alt="Terminal" width="26px" src="/icons/terminal2.png" />][website]
 [<img align="left" alt="GitHub" width="26px" src="/icons/ubuntu.png" />][website]
 [<img align="left" alt="Git" width="26px" src="/icons/git.svg" />][website]
