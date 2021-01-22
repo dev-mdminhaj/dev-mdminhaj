@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Muhammad Minhaj" width="22px" src="/icons/stack-overflow.png" />][stackoverflow]
 [<img align="left" alt="Developer-Muhammad Minhaj | YouTube" width="22px" src="/icons/youtube.png" />][youtube]
 [<img align="left" alt="Muhammad Minhaj | Twitter" width="22px" src="/icons/twitter.png" />][twitter]
-[<img align="left" alt="Muhammad Minhaj | LinkedIn" width="22px" src="/icons/linkedin.png" />][linkedin]
+[<img align="left" alt="Muhammad Minhaj | LinkedIn" width="22px" src="/icons/linkedin1.png" />][linkedin]
 [<img align="left" alt="Muhammad Minhaj | Instagram" width="22px" src="/icons/instagram.png" />][instagram]
 
 <br />
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Git" width="26px" src="/icons/git.svg" />][website]
 [<img align="left" alt="GitHub" width="26px" src="/icons/ubuntu.png" />][website]
 [<img align="left" alt="GitHub" width="26px" src="/icons/github.svg" />][website]
-[<img align="left" alt="Terminal" width="26px" src="/icons/terminal.png" />][website]
+[<img align="left" alt="Terminal" width="26px" src="/icons/terminal3.png" />][website]
 
 <br />
 <br />
