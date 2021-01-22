@@ -56,22 +56,6 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dev-mdminhaj)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
-
-#### Front-End
-➔ HTML, CSS, Javascript,ReactJs, Bootstrap Material-UI, Ant Design,NextJs
-➔ Redux, React-Redux, React Context API
-
-#### Back-End
-➔ Javascript, NodeJs, ExpressJs, NextJs 
-➔ MongoDB (NoSQL), MySql (SQL)
-
-#### Programming languages:
-➔ Javascript, Python
-
-
 [website]: http://dev-mdminhaj.github.io
 [twitter]: https://twitter.com/dev_mdminhaj
 [youtube]: https://www.youtube.com/channel/UCBSNbOumi5uNLJz8vFGJLRQ
