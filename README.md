@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 ☛ I'm Muhammad Minhaj, a full-stack web and mobile application developer. I develop cross-platform mobile and web-based applications. I'm an expert in Javascript. I have the core skill in Javascript and I love to do most of the things develop using Javascript. All most, I'm a Javascript lover. I love to learn new things to achieve new knowledge and I like to share my knowledge with another one. I always try to solve problems to improve my skills even I don't get annoyed about this. Now, I work with these technologies below but I wish to work with more technology in the future.
 
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
@@ -35,6 +34,10 @@ Here are some ideas to get you started:
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
+<br />
+<br />
+
+---
 
 
 
