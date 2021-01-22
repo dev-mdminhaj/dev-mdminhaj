@@ -28,7 +28,7 @@ I'm Muhammad Minhaj, a full-stack web and mobile application developer. I develo
 
 <br />
 
-### Languages:
+### Languages & Tools:
 
 [<img align="left" alt="HTML5" width="26px" src="/icons/html5.png" />][website]
 [<img align="left" alt="CSS3" width="26px" src="/icons/css-3.png" />][website]
@@ -47,8 +47,6 @@ I'm Muhammad Minhaj, a full-stack web and mobile application developer. I develo
 [<img align="left" alt="MongoDB" width="26px" src="/icons/mongodb.svg" />][website]
 
 <br />
-
-### Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="/icons/vscode.png"/>][website]
 [<img align="left" alt="Visual Studio Code" width="26px" src="/icons/androidstudio.png"/>][website]
