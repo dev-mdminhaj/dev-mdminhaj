@@ -21,6 +21,7 @@ I'm Muhammad Minhaj, a full-stack web and mobile application developer. I develo
 [<img align="left" alt="dev-mdminhaj.github.io" width="22px" src="/icons/world-wide-web.png" />][website]
 [<img align="left" alt="Muhammad Minhaj" width="22px" src="/icons/stack-overflow.png" />][stackoverflow]
 [<img align="left" alt="Developer-Muhammad Minhaj | YouTube" width="22px" src="/icons/youtube.png" />][youtube]
+[<img align="left" alt="Muhammad Minhaj | Facebook" width="22px" src="/icons/facebook.png" />][facebook]
 [<img align="left" alt="Muhammad Minhaj | Twitter" width="22px" src="/icons/twitter.png" />][twitter]
 [<img align="left" alt="Muhammad Minhaj | LinkedIn" width="22px" src="/icons/linkedin.png" />][linkedin]
 [<img align="left" alt="Muhammad Minhaj | Instagram" width="22px" src="/icons/instagram.png" />][instagram]
@@ -66,6 +67,7 @@ I'm Muhammad Minhaj, a full-stack web and mobile application developer. I develo
 
 [website]: http://dev-mdminhaj.github.io
 [stackoverflow]: https://stackoverflow.com/users/13464821/muhammad-minhaj
+[facebook]: https://www.facebook.com/dev.mdminhaj
 [twitter]: https://twitter.com/dev_mdminhaj
 [youtube]: https://www.youtube.com/channel/UCBSNbOumi5uNLJz8vFGJLRQ
 [instagram]: https://www.instagram.com/dev_mdminhaj
