@@ -29,16 +29,10 @@ Here are some ideas to get you started:
 
 ### Languages & Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="/icons/vscode.png"/>][website]
-
 [<img align="left" alt="HTML5" width="26px" src="/icons/html5.png" />][website]
-
 [<img align="left" alt="CSS3" width="26px" src="/icons/css-3.png" />][website]
-
 [<img align="left" alt="CSS3" width="26px" src="/icons/material-ui.svg" />][website]
-
 [<img align="left" alt="CSS3" width="26px" src="/icons/bootstrap.svg" />][website]
-
 [<img align="left" alt="JavaScript" width="26px" src="/icons/javascript.svg" />][website]
 [<img align="left" alt="Deno" width="26px" src="/icons/typescript.png" />][website]
 [<img align="left" alt="Node.js" width="26px" src="/icons/nodejs.svg" />][website]
@@ -49,14 +43,17 @@ Here are some ideas to get you started:
 [<img align="left" alt="Gatsby" width="26px" src="/icons/eslint.svg" />][website]
 [<img align="left" alt="GraphQL" width="26px" src="/icons/webpack.png" />][website]
 [<img align="left" alt="MongoDB" width="26px" src="/icons/mongodb.svg" />][website]
-[<img align="left" alt="Git" width="26px" src="/icons/git.svg" />][website]
-[<img align="left" alt="GitHub" width="26px" src="/icons/ubuntu.png" />][website]
-[<img align="left" alt="GitHub" width="26px" src="/icons/github.svg" />][website]
 
 <br />
 <br />
 
+[<img align="left" alt="Visual Studio Code" width="26px" src="/icons/vscode.png"/>][website]
+[<img align="left" alt="Visual Studio Code" width="26px" src="/icons/androidstudio.png"/>][website]
 [<img align="left" alt="Terminal" width="26px" src="/icons/terminal3.png" />][website]
+[<img align="left" alt="GitHub" width="26px" src="/icons/ubuntu.png" />][website]
+[<img align="left" alt="Git" width="26px" src="/icons/git.svg" />][website]
+[<img align="left" alt="GitHub" width="26px" src="/icons/github.svg" />][website]
+[<img align="left" alt="GitHub" width="26px" src="/icons/figma.svg" />][website]
 
 <br />
 <br />
