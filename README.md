@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
+-
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dev-mdminhaj)](https://github.com/anuraghazra/github-readme-stats)
 
