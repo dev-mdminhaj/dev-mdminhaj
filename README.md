@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Node.js" width="26px" src="/icons/nodejs.svg" />][website]
 [<img align="left" alt="Sass" width="26px" src="/icons/expressjs.svg" />][website]
 [<img align="left" alt="React" width="26px" src="/icons/react-native.svg" />][website]
-[<img align="left" alt="React" width="26px" src="/icons/next.png" />][website]
+[<img align="left" alt="React" width="26px" src="/icons/nextjs.png" />][website]
 [<img align="left" alt="MySQL" width="26px" src="/icons/redux.png" />][website]
 [<img align="left" alt="Gatsby" width="26px" src="/icons/eslint.svg" />][website]
 [<img align="left" alt="GraphQL" width="26px" src="/icons/webpack.png" />][website]
