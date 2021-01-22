@@ -47,6 +47,7 @@ I'm Muhammad Minhaj, a full-stack web and mobile application developer. I develo
 [<img align="left" alt="MongoDB" width="26px" src="/icons/mongodb.svg" />][website]
 
 <br />
+<br />
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="/icons/vscode.png"/>][website]
 [<img align="left" alt="Visual Studio Code" width="26px" src="/icons/androidstudio.png"/>][website]
