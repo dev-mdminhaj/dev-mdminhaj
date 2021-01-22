@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Git" width="26px" src="/icons/git.svg" />][website]
 [<img align="left" alt="GitHub" width="26px" src="/icons/ubuntu.png" />][website]
 [<img align="left" alt="GitHub" width="26px" src="/icons/github.svg" />][website]
-
+---
 <br />
 
 [<img align="left" alt="Terminal" width="26px" src="/icons/terminal3.png" />][website]
