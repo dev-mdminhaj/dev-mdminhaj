@@ -45,7 +45,9 @@ Here are some ideas to get you started:
 [<img align="left" alt="GraphQL" width="26px" src="/icons/webpack.png" />][website]
 [<img align="left" alt="MongoDB" width="26px" src="/icons/mongodb.svg" />][website]
 
+<br />
 ### Tools:
+
 [<img align="left" alt="Visual Studio Code" width="26px" src="/icons/vscode.png"/>][website]
 [<img align="left" alt="Visual Studio Code" width="26px" src="/icons/androidstudio.png"/>][website]
 [<img align="left" alt="Terminal" width="26px" src="/icons/terminal2.png" />][website]
