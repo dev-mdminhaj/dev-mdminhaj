@@ -56,6 +56,8 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dev-mdminhaj&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dev-mdminhaj)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [website]: http://dev-mdminhaj.github.io
 [twitter]: https://twitter.com/dev_mdminhaj
