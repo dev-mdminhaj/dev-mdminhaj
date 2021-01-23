@@ -16,17 +16,6 @@ Here are some ideas to get you started:
 
 I'm Muhammad Minhaj, a full-stack web and mobile application developer. I develop cross-platform mobile and web-based applications. I'm an expert in Javascript. I have the core skill in Javascript and I love to do most of the things develop using Javascript. All most, I'm a Javascript lover. I love to learn new things to achieve new knowledge and I like to share my knowledge with another one. I always try to solve the problems to improve my skills even I don't get annoyed about this. Now, I work with these technologies below but I wish to work with more technology in the future.
 
-### Connect with me:
-
-[<img align="left" alt="dev-mdminhaj.github.io" width="22px" src="/icons/world-wide-web.png" />][website]
-[<img align="left" alt="Muhammad Minhaj" width="22px" src="/icons/stack-overflow.png" />][stackoverflow]
-[<img align="left" alt="Developer-Muhammad Minhaj | YouTube" width="22px" src="/icons/youtube.png" />][youtube]
-[<img align="left" alt="Muhammad Minhaj | Facebook" width="22px" src="/icons/facebook.png" />][facebook]
-[<img align="left" alt="Muhammad Minhaj | Twitter" width="22px" src="/icons/twitter.png" />][twitter]
-[<img align="left" alt="Muhammad Minhaj | LinkedIn" width="22px" src="/icons/linkedin.png" />][linkedin]
-[<img align="left" alt="Muhammad Minhaj | Instagram" width="22px" src="/icons/instagram.png" />][instagram]
-
-<br />
 
 ### Languages & Tools:
 
@@ -59,6 +48,19 @@ I'm Muhammad Minhaj, a full-stack web and mobile application developer. I develo
 
 <br />
 <br />
+
+### Connect with me:
+
+[<img align="left" alt="dev-mdminhaj.github.io" width="22px" src="/icons/world-wide-web.png" />][website]
+[<img align="left" alt="Muhammad Minhaj" width="22px" src="/icons/stack-overflow.png" />][stackoverflow]
+[<img align="left" alt="Developer-Muhammad Minhaj | YouTube" width="22px" src="/icons/youtube.png" />][youtube]
+[<img align="left" alt="Muhammad Minhaj | Facebook" width="22px" src="/icons/facebook.png" />][facebook]
+[<img align="left" alt="Muhammad Minhaj | Twitter" width="22px" src="/icons/twitter.png" />][twitter]
+[<img align="left" alt="Muhammad Minhaj | LinkedIn" width="22px" src="/icons/linkedin.png" />][linkedin]
+[<img align="left" alt="Muhammad Minhaj | Instagram" width="22px" src="/icons/instagram.png" />][instagram]
+
+<br />
+
 
 ---
 
