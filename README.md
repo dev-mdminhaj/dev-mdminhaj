@@ -1,7 +1,6 @@
 <!--
-  Title: Muhammad Minhaj
-  Description: I'm Muhammad Minhaj, a full-stack web and mobile application developer.I develop cross-platform mobile and web-based applications. I'm an expert in Javascript. I have the core skill in Javascript and I love to do most of the things develop using Javascript. All most, I'm a Javascript lover.
-  Author: Muhammad Minhaj
+  name: google-site-verification
+  content: Fydu-HVL_Sz-jtmQBDHQtHPFjn2f7hWXbciC4_OT72M
 -->
   
 ## Welcome To My Profile 👋
