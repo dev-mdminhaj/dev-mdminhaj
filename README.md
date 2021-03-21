@@ -53,7 +53,8 @@ I'm Muhammad Minhaj, a full-stack web and mobile application developer. I develo
 
 [<img align="left" alt="dev-mdminhaj.github.io" width="22px" src="/icons/world-wide-web.png" />][website]
 [<img align="left" alt="Muhammad Minhaj" width="22px" src="/icons/stack-overflow.png" />][stackoverflow]
-[<img align="left" alt="Developer-Muhammad Minhaj | YouTube" width="22px" src="/icons/youtube.png" />][youtube]
+[<img align="left" alt="Muhammad Minhaj" width="22px" src="/icons/HackerRank.png" />][hackerrank]
+[<img align="left" alt="Informative Coding | YouTube" width="22px" src="/icons/youtube.png" />][youtube]
 [<img align="left" alt="Muhammad Minhaj | Facebook" width="22px" src="/icons/facebook.png" />][facebook]
 [<img align="left" alt="Muhammad Minhaj | Twitter" width="22px" src="/icons/twitter.png" />][twitter]
 [<img align="left" alt="Muhammad Minhaj | LinkedIn" width="22px" src="/icons/linkedin.png" />][linkedin]
@@ -68,6 +69,7 @@ I'm Muhammad Minhaj, a full-stack web and mobile application developer. I develo
 
 [website]: http://dev-mdminhaj.github.io
 [stackoverflow]: https://stackoverflow.com/users/13464821/muhammad-minhaj
+[hackerrank]: https://www.hackerrank.com/mdminhaj
 [facebook]: https://www.facebook.com/dev.mdminhaj
 [twitter]: https://twitter.com/dev_mdminhaj
 [youtube]: https://www.youtube.com/channel/UCBSNbOumi5uNLJz8vFGJLRQ
