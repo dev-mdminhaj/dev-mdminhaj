@@ -65,13 +65,13 @@ I'm Muhammad Minhaj, a full-stack web and mobile application developer. I develo
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dev-mdminhaj&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MuhammadMinhaj&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: http://dev-mdminhaj.github.io
+[website]: https://muhammadminhaj.github.io
 [stackoverflow]: https://stackoverflow.com/users/13464821/muhammad-minhaj
-[hackerrank]: https://www.hackerrank.com/mdminhaj
-[facebook]: https://www.facebook.com/dev.mdminhaj
+[hackerrank]: https://www.hackerrank.com/MuhammadMinhaj
+[facebook]: https://www.facebook.com/MuhammadMinhaj2
 [twitter]: https://twitter.com/dev_mdminhaj
 [youtube]: https://www.youtube.com/channel/UCBSNbOumi5uNLJz8vFGJLRQ
-[instagram]: https://www.instagram.com/dev_mdminhaj
-[linkedin]: https://www.linkedin.com/in/dev-mdminhaj
+[instagram]: https://www.instagram.com/muhammadminhaj
+[linkedin]: https://www.linkedin.com/in/MuhammadMinhaj1
